@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "neumaticos": "Blandos",
+    "combustible": 5.75
+  },
+  {
+    "id": 2,
+    "neumaticos": "Lluvia",
+    "combustible": 5.75
+  },
+  {
+    "id": 3,
+    "neumaticos": "Duros",
+    "combustible": 5.75
+  },
+  {
+    "id": 4,
+    "neumaticos": "Blandos",
+    "combustible": 3.25
+  },
+  {
+    "id": 5,
+    "neumaticos": "Lluvia",
+    "combustible": 3.25
+  },
+  {
+    "id": 6,
+    "neumaticos": "Duros",
+    "combustible": 3.25
+  },
+  {
+    "id": 7,
+    "neumaticos": "Blandos",
+    "combustible": 10.0
+  },
+  {
+    "id": 8,
+    "neumaticos": "Lluvia",
+    "combustible": 10.0
+  },
+  {
+    "id": 9,
+    "neumaticos": "Duros",
+    "combustible": 10.0
+  }
+]

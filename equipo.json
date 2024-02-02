@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hot Wheels",
+    "presupuesto": 1000000.0,
+    "competicion": "Mario Kart Grand Prix",
+    "estrategia": {
+      "id": 2,
+      "neumaticos": "Lluvia",
+      "combustible": 5.75
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Toretos Family",
+    "presupuesto": 5000000.0,
+    "competicion": "The 1% Club",
+    "estrategia": {
+      "id": 1,
+      "neumaticos": "Blandos",
+      "combustible": 5.75
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "The Crew",
+    "presupuesto": 1450000.0,
+    "estrategia": {
+      "id": 3,
+      "neumaticos": "Duros",
+      "combustible": 5.75
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Midnight CLub",
+    "presupuesto": 750000.0,
+    "competicion": "Crash Tag Team Racing Cup",
+    "estrategia": {
+      "id": 4,
+      "neumaticos": "Blandos",
+      "combustible": 3.25
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Drivers",
+    "presupuesto": 1350000.0,
+    "estrategia": {
+      "id": 1,
+      "neumaticos": "Blandos",
+      "combustible": 5.75
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Need For Speed",
+    "presupuesto": 1800000.0,
+    "competicion": "Wreck Fest",
+    "estrategia": {
+      "id": 7,
+      "neumaticos": "Blandos",
+      "combustible": 10.0
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Speed Hunters",
+    "presupuesto": 3000000.0,
+    "competicion": "The 1% Club",
+    "estrategia": {
+      "id": 8,
+      "neumaticos": "Lluvia",
+      "combustible": 10.0
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Riders On The Storm",
+    "presupuesto": 500000.0,
+    "competicion": "Crash Tag Team Racing Cup",
+    "estrategia": {
+      "id": 2,
+      "neumaticos": "Lluvia",
+      "combustible": 5.75
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "619 Customs",
+    "presupuesto": 1250000.0,
+    "competicion": "Mario Kart Grand Prix",
+    "estrategia": {
+      "id": 4,
+      "neumaticos": "Blandos",
+      "combustible": 3.25
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Los Big Playas",
+    "presupuesto": 1750000.0,
+    "competicion": "Wreck Fest",
+    "estrategia": {
+      "id": 6,
+      "neumaticos": "Duros",
+      "combustible": 3.25
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "By Invitation Only",
+    "presupuesto": 2000000.0,
+    "competicion": "Mario Kart Grand Prix",
+    "estrategia": {
+      "id": 8,
+      "neumaticos": "Lluvia",
+      "combustible": 10.0
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Tuners",
+    "presupuesto": 1500000.0,
+    "competicion": "The 1% Club",
+    "estrategia": {
+      "id": 5,
+      "neumaticos": "Lluvia",
+      "combustible": 3.25
+    }
+  }
+]

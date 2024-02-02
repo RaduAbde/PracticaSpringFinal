@@ -1,0 +1,62 @@
+[
+  {
+    "matricula": "S048830",
+    "marca": "Porsche",
+    "modelo": "918 Spyder",
+    "potencia": 887
+  },
+  {
+    "matricula": "P100V",
+    "marca": "McLaren",
+    "modelo": "P1",
+    "potencia": 916
+  },
+  {
+    "matricula": "FLAF350",
+    "marca": "Ferrari",
+    "modelo": "LaFerrari",
+    "potencia": 963
+  },
+  {
+    "matricula": "BGEB351",
+    "marca": "Bugatti",
+    "modelo": "EB110 SS",
+    "potencia": 611
+  },
+  {
+    "matricula": "PAGHU388",
+    "marca": "Pagani",
+    "modelo": "Huayara BC",
+    "potencia": 790
+  },
+  {
+    "matricula": "MCLF391",
+    "marca": "McLaren",
+    "modelo": "F1",
+    "potencia": 636
+  },
+  {
+    "matricula": "KOENCR395",
+    "marca": "Koenigsegg",
+    "modelo": "CCR",
+    "potencia": 816
+  },
+  {
+    "matricula": "SALLS739",
+    "marca": "Saleen",
+    "modelo": "S7 Twin Turbo",
+    "potencia": 760
+  },
+  {
+    "matricula": "MCTAIL403",
+    "marca": "McLaren",
+    "modelo": "Speedtail",
+    "potencia": 1050
+  },
+  {
+    "matricula": "BUGVEY40",
+    "marca": "Bugatti",
+    "modelo": "Veyron",
+    "potencia": 1000
+  }
+]

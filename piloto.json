@@ -1,0 +1,128 @@
+[
+  {
+    "dni": "X5230958E",
+    "nombre": "Joan Romero",
+    "edad": 31,
+    "estilo": "Agresivo"
+  },
+  {
+    "dni": "Z7696765G",
+    "nombre": "Antonio Ortiz",
+    "edad": 32,
+    "estilo": "Normal"
+  },
+  {
+    "dni": "Z4536953R",
+    "nombre": "Alberto Fernandez",
+    "edad": 19,
+    "estilo": "Agresivo"
+  },
+  {
+    "dni": "X4150001L",
+    "nombre": "Ricardo Vidal",
+    "edad": 23,
+    "estilo": "Drifter"
+  },
+  {
+    "dni": "Z5871668A",
+    "nombre": "Jaime Vidal",
+    "edad": 28,
+    "estilo": "Normal"
+  },
+  {
+    "dni": "Y7297137X",
+    "nombre": "Felipe Navarro",
+    "edad": 35,
+    "estilo": "Agresivo"
+  },
+  {
+    "dni": "Z9427426F",
+    "nombre": "Adrian Lopez",
+    "edad": 26,
+    "estilo": "Drifter"
+  },
+  {
+    "dni": "X2199306T",
+    "nombre": "Lucas Vidal",
+    "edad": 22,
+    "estilo": "Normal"
+  },
+  {
+    "dni": "X8559283V",
+    "nombre": "Francisco Vicente",
+    "edad": 28,
+    "estilo": "Drifter"
+  },
+  {
+    "dni": "Y5362619E",
+    "nombre": "Rafael Ruiz",
+    "edad": 35,
+    "estilo": "Rammer"
+  },
+  {
+    "dni": "X3973437A",
+    "nombre": "Jose Herrero",
+    "edad": 28,
+    "estilo": "Normal"
+  },
+  {
+    "dni": "X3542113K",
+    "nombre": "Juan Antonio Herrera",
+    "edad": 27,
+    "estilo": "Drifter"
+  },
+  {
+    "dni": "X4976158Q",
+    "nombre": "Ismael Santos",
+    "edad": 26,
+    "estilo": "Rammer"
+  },
+  {
+    "dni": "Y4465383Q",
+    "nombre": "Andres Esteban",
+    "edad": 22,
+    "estilo": "Agresivo"
+  },
+  {
+    "dni": "Z3029468M",
+    "nombre": "Emilio Herrero",
+    "edad": 22,
+    "estilo": "Rammer"
+  },
+  {
+    "dni": "Z7331935T",
+    "nombre": "Sergio Carrasco",
+    "edad": 26,
+    "estilo": "Rammer"
+  },
+  {
+    "dni": "Z6837756E",
+    "nombre": "Ivan Sanz",
+    "edad": 19,
+    "estilo": "Drifter"
+  },
+  {
+    "dni": "Y2088114G",
+    "nombre": "Javier Ramirez",
+    "edad": 23,
+    "estilo": "Rammer"
+  },
+  {
+    "dni": "Y0172950G",
+    "nombre": "Manuel Nieto",
+    "edad": 25,
+    "estilo": "Agresivo"
+  },
+  {
+    "dni": "Y0676455Q",
+    "nombre": "Juan Manuel Gallego",
+    "edad": 23,
+    "estilo": "Agresivo"
+  },
+  {
+    "dni": "Z6986349N",
+    "nombre": "Jose Miguel Aguilar",
+    "edad": 21,
+    "estilo": "Drifter"
+  }
+]
